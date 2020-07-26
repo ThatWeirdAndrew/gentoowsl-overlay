@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>uhhhhhh</email>
+    <name>Andrew Fehr</name>
+  </maintainer>
+  <longdescription lang="en">
+    A collection of utilities for WSL
+  </longdescription>
+  <upstream>
+    <remote-id type="github">wslutilities/wslu</remote-id>
+    <bugs-to>https://github.com/wslutilities/wslu/issues</bugs-to>
+  </upstream>
+</pkgmetadata>
