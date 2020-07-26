@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+    <repo priority="100" quality="experimental" status="unofficial">
+        <name>gentoowsl</name>
+        <description lang="en">Overlay for GentooWSL</description>
+        <homepage>https://github.com/ThatWeirdAndrew/gentoowsl-overlay</homepage>
+        <owner>
+            <name>Andrew Fehr</name>
+            <email>uhhhhhhhhh</email>
+        </owner>
+        <source type="git">https://github.com/ThatWeirdAndrew/gentoowsl-overlay.git</source>
+        <source type="git">git://github.com/ThatWeirdAndrew/gentoowsl-overlay.git</source>
+        <source type="git">git@github.com:ThatWeirdAndrew/gentoowsl-overlay.git</source>
+        <feed>https://github.com/ThatWeirdAndrew/gentoowsl-overlay/commits/master.atom</feed>
+    </repo>
+</repositories>
